@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: inflearn
+
+server:
+  port: 8081
